@@ -6,7 +6,7 @@ package com.example.funkatron.twofa.gcm;
 public class NotificationWrapper {
 
     private int id;
-    private String message;
+    private String body;
 
     public int getId() {
         return id;
@@ -16,11 +16,11 @@ public class NotificationWrapper {
         this.id = id;
     }
 
-    public String getMessage() {
-        return message;
+    public String getBody() {
+        return body;
     }
 
-    public void setMessage(String message) {
-        this.message = message;
+    public void setBody(String body) {
+        this.body = body;
     }
 }
