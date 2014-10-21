@@ -1,0 +1,7 @@
+{
+  "registration_ids" : ["REPLACE_WTIH_YOUR_REG_ID"],
+  "data" : {
+    "message": {
+		"body":"Here is the message body"}
+  }
+}

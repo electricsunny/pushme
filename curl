@@ -1,0 +1,2 @@
+
+curl --header "Authorization: key=REPLACE_WITH_YOUR_GCM_API_KEY" --header Content-Type:"application/json" https://android.googleapis.com/gcm/send  -d @data
